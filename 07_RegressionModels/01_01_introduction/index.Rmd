@@ -38,7 +38,7 @@ runif(1)
 
 <img class=center src=fig/height.png height=150>
 
-[http://www.nature.com/ejhg/journal/v17/n8/full/ejhg20095a.html](http://www.nature.com/ejhg/journal/v17/n8/full/ejhg20095a.html)
+[https://www.nature.com/articles/ejhg20095](https://www.nature.com/articles/ejhg20095)
 
 [Predicting height: the Victorian approach beats modern genomics](http://www.wired.com/wiredscience/2009/03/predicting-height-the-victorian-approach-beats-modern-genomics/)
 
